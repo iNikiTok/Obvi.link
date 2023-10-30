@@ -1,0 +1,9 @@
+body{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 300;
+    color: var(--main-color);
+}
+.center{
+    padding-left: calc(50vw - 125px);
+    padding-right: calc(50vw - 125px);
+}
